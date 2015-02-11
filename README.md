@@ -14,7 +14,7 @@ Ext.create('Ext.ux.field.NumberPicker', {
     maxValue: 100, // Required
     name: 'myNumberField', // Form field name for form methods (getValues, etc)
     placeHolder: 'Ratio', // Prefix label - optional
-    units: '%', // Suffice label - optional
+    units: '%', // Suffix label - optional
     value: 50 // Initially set value - optional
 });
 </pre>
